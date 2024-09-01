@@ -38,5 +38,6 @@ public class task_1 {
         }
 
         scanner.close();
+
     }
 }
